@@ -2,6 +2,7 @@ golden-dictcn
 =============
 
 Bridge with golden-dict and dict.cn.
+![Screenshot](https://github.com/jinchizhong/golden-dictcn/raw/master/screenshot.png)
 
 Usage
 -----

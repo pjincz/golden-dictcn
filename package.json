@@ -1,6 +1,6 @@
 {
   "name": "golden-dictcn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "bridge golden-dict and dict.cn",
   "main": "app.js",
   "scripts": {
