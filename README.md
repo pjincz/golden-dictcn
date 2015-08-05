@@ -12,4 +12,4 @@ Usage
 Golden Dict -> Dictionaries -> Sources -> Programs -> Add:  
 Type: Html
 Name: As you like
-Command Line: result of above command line
+Command Line: similar to '/usr/local/bin/golden-dictcn %GDWORD%'. Notice path.
