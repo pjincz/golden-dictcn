@@ -14,3 +14,14 @@ Golden Dict -> Dictionaries -> Sources -> Programs -> Add:
 Type: Html
 Name: As you like
 Command Line: similar to '/usr/local/bin/golden-dictcn %GDWORD%'. Notice path.
+
+Sound
+-----
+
+Golden Dict -> Dictionaries -> Sources -> Programs -> Add:
+Type: Audio
+Name: As you like
+Command Line: similar to '/usr/local/bin/golden-dictcn --sound --us %GDWORD%'. Notice path.
+  or: similar to '/usr/local/bin/golden-dictcn --sound --uk %GDWORD%'
+
+mplayer is required to play sound

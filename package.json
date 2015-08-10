@@ -1,6 +1,6 @@
 {
   "name": "golden-dictcn",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "bridge golden-dict and dict.cn",
   "main": "app.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.19.0",
+    "nopt": "^3.0.3",
     "request": "^2.60.0"
   },
   "bin": {
